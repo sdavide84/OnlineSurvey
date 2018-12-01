@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <!-- Settings, should always be in the overflow -->
+
+
+    <item android:id="@+id/action_refresh"
+        android:title="@string/action_refresh"
+        android:icon="@drawable/action_refresh_white"
+        app:showAsAction="ifRoom"/>
+
+    <item android:id="@+id/action_logout"
+        android:title="@string/action_logout"
+        android:icon="@drawable/action_logout_white"
+        app:showAsAction="always"/>
+</menu>

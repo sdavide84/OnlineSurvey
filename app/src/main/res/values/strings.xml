@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Online Survey</string>
+
+    <!-- Strings related to login -->
+    <string name="logo">logo</string>
+    <string name="login">Login</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="registerPage">Clicca qui per registrarti</string>
+    <string name="action_sign_in_short">Log in</string>
+    <string name="error_invalid_email">L\'email non è valida</string>
+    <string name="error_invalid_password">La password è troppo corta</string>
+    <string name="error_incorrect_password">La password non è corretta</string>
+    <string name="error_field_required">Campo Obbligatorio</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="domain">Es. 192.168.0.1</string>
+    <string name="port">Es. 8080</string>
+
+
+    <string name="action_logout">Logout</string>
+    <string name="action_refresh">Refresh</string>
+    <string name="title_activity_survey">SurveyActivity</string>
+    <string name="survey">Sondaggio</string>
+    <string name="argument">Argomento</string>
+    <string name="question">Domanda</string>
+    <string name="answers">Risposte</string>
+    <string name="ahead_button">Avanti</string>
+    <string name="surveys">Elenco Sondaggi</string>
+
+    <!-- Strings related to register -->
+    <string name="name">Nome</string>
+    <string name="surname">Cognome</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="confirmPassword">Conferma Password</string>
+    <string name="register">Registrati</string>
+    <string name="comeBackLogin">Torna alla pagina di Login</string>
+    <string name="nameerror">I caratteri usati per il nome non sono validi</string>
+    <string name="emailerror">Inserisci una mail valida</string>
+    <string name="passworderror">La password deve essere composta da almeno 8 caratteri, di cui lettere maiuscole, minuscole numeri e simboli</string>
+
+</resources>

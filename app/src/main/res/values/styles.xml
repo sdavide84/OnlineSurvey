@@ -1,0 +1,28 @@
+<resources>
+
+    <style name="MainTheme" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:colorPrimary">@color/secondaryDarkColor</item>
+        <item name="android:colorPrimaryDark">@color/primaryDarkColor</item>
+        <item name="android:colorAccent">@color/primaryColor</item>
+        <item name="android:colorBackground">@color/light_grey</item>
+        <item name="android:colorForeground">@android:color/darker_gray</item>
+        <item name="android:navigationBarColor">@color/primaryColor</item>
+        <item name="android:statusBarColor">@color/secondaryDarkColor</item>
+        <item name="android:textColorPrimary">@color/primaryColor</item>
+        <item name="android:textColorSecondary">@color/primaryTextColor</item>
+        <item name="android:textColorSecondaryInverse">@color/primaryColor</item>
+        <item name="colorAccent">@color/primaryColor</item>
+        <item name="colorPrimaryDark">@color/secondaryDarkColor</item>
+        <item name="colorPrimary">@color/secondaryColor</item>
+    </style>
+
+    <style name="MainTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+
+    <style name="MainTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+
+    <style name="MyCustomTheme" parent="Theme.AppCompat.NoActionBar" >
+        <item name="colorAccent">@color/secondaryDarkColor</item>
+        <item name="colorPrimary">@color/primaryColor</item>
+    </style>
+
+</resources>
